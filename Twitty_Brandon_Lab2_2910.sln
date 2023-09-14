@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twitty_Brandon_Lab2_2910", "Twitty_Brandon_Lab2_2910\Twitty_Brandon_Lab2_2910.csproj", "{408F4986-D750-456E-85D8-DB1CA7E9BE08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{408F4986-D750-456E-85D8-DB1CA7E9BE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{408F4986-D750-456E-85D8-DB1CA7E9BE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{408F4986-D750-456E-85D8-DB1CA7E9BE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{408F4986-D750-456E-85D8-DB1CA7E9BE08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D8CD607-439B-425F-B1EF-903BF8775531}
+	EndGlobalSection
+EndGlobal
